@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Github User"'"s Search</string>
+    <string name="detail_name">Detail User</string>
+    <string name="menu_1">Settings</string>
+    <string name="search_text">Username</string>
+    <string name="search_hint">Dicoding Indonesia</string>
+    <string name="favorite_text">Favorite</string>
+    <string name="save_favorite">Save Favorite?</string>
+    <string name="setting_text">Settings</string>
+    <string name="user_avatar">user avatar</string>
+    <string name="company">Company : %1$s</string>
+    <string name="location">Location : %1$s</string>
+    <string name="tab_text_1">Follower</string>
+    <string name="tab_text_2">Following</string>
+    <string name="dark_mode">Dark Mode</string>
+</resources>
